@@ -1,6 +1,6 @@
 # genfstab
 
-This is a standalone version of the `genfstab` tool found in [Arch Linux](https://www.archlinux.org/) 
+This is a standalone version of the `genfstab` tool found in [Arch Linux](https://www.archlinux.org/), made to work well with [voidUSB](https://github.com/rangerAMG/voidUSB) 
 
 Forked from [arch-install-scripts](https://projects.archlinux.org/arch-install-scripts.git/)
 
